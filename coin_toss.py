@@ -27,10 +27,10 @@ def coin_toss():
     random_number = random.randint(1, 100)
 
     if random_number > 50:
-         print ('====Coin Flipper====\nTails')
+         print ('===== Coin Flipper =====\nTails')
            
     else: 
-        print('====Coin Flipper====\nHeads')
+        print('===== Coin Flipper =====\nHeads')
 
 main()
 
